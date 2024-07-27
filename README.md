@@ -53,6 +53,6 @@ Si no responde el servidor de FastAPI con "concurrently", puedes iniciarlo direc
 
 
 # Link Hacia el Modelo:
-[link]([https://colab.research.google.com/drive/1PWvxsO3smAAjl69SnQeEnyBOGGdmKAxu])<br>
+[link]([(https://colab.research.google.com/drive/1PWvxsO3smAAjl69SnQeEnyBOGGdmKAxu)])<br>
 
 # M1000IA_Streamlit
